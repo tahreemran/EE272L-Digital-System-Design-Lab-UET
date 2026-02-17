@@ -1,0 +1,11 @@
+{D:/DLD lab/lab 1.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/DLD lab/lab 1.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module andGate
+
+Top level modules:
+	andGate
+
+} {} {}} {D:/DLD lab/lab 2.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/DLD lab/lab 2.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+
+} {} {}}
