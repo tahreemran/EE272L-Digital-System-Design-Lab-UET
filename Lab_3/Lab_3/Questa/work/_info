@@ -1,0 +1,176 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2024.1/examples
+T_opt
+!s110 1772115615
+V39[AI8OISCb1fLVOiUR[62
+04 10 4 work decoder_tb fast 0
+=1-c46516f7de4e-69a0569d-2f1-20b0
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+vdecoder_seg
+2D:/newfolder/decoder_seg.sv
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1772115596
+!i10b 1
+!s100 8=U^N:Y>kYcXNRoBm6SAY0
+InJ2Xme>DBY2l4[R=`^XcH3
+S1
+Z3 dD:/questa
+w1772104196
+8D:/newfolder/decoder_seg.sv
+FD:/newfolder/decoder_seg.sv
+!i122 0
+Z4 L0 1 18
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z7 !s108 1772115596.000000
+!s107 D:/newfolder/decoder_seg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/newfolder/decoder_seg.sv|
+!i113 0
+Z8 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vdecoder_sel
+2D:/newfolder/decoder_sel.sv
+R2
+Z9 !s110 1772115597
+!i10b 1
+!s100 ^InL22M9CcQPaUUTA7R0P3
+I6NQ;C1?<H[NAO;0ih@KU=1
+S1
+R3
+w1772104481
+8D:/newfolder/decoder_sel.sv
+FD:/newfolder/decoder_sel.sv
+!i122 1
+R4
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/newfolder/decoder_sel.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/newfolder/decoder_sel.sv|
+!i113 0
+R8
+R1
+vdecoder_tb
+2D:/newfolder/top_module_tb.sv
+R2
+R9
+!i10b 1
+!s100 B;Wm^FWki@`[JZKUdkiXU3
+I1L@3H_j5LoQJ;boQ1L6]C1
+S1
+R3
+w1772102709
+8D:/newfolder/top_module_tb.sv
+FD:/newfolder/top_module_tb.sv
+!i122 5
+L0 1 39
+R5
+R6
+r1
+!s85 0
+31
+Z10 !s108 1772115597.000000
+!s107 D:/newfolder/top_module_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/newfolder/top_module_tb.sv|
+!i113 0
+R8
+R1
+vfull_adder
+2D:/newfolder/full_adder.sv
+R2
+R9
+!i10b 1
+!s100 <PUd<5;1`^2Qg_>0TYVKS1
+IL<ERSVNf0@nbO4;AI<M6S3
+S1
+R3
+w1772103028
+8D:/newfolder/full_adder.sv
+FD:/newfolder/full_adder.sv
+!i122 2
+L0 1 21
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 D:/newfolder/full_adder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/newfolder/full_adder.sv|
+!i113 0
+R8
+R1
+vripple_carry
+2D:/newfolder/ripple_carry.sv
+R2
+R9
+!i10b 1
+!s100 6fk<;f`mkZ3z^ced^4`_R0
+IahQCoLAQ562k:QhQA0AL12
+S1
+R3
+w1772102683
+8D:/newfolder/ripple_carry.sv
+FD:/newfolder/ripple_carry.sv
+!i122 3
+L0 1 34
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 D:/newfolder/ripple_carry.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/newfolder/ripple_carry.sv|
+!i113 0
+R8
+R1
+vtop_adder_decoder
+2D:/newfolder/top_module_decoder.sv
+R2
+R9
+!i10b 1
+!s100 5ib]Gmzd=mA70b`FnzzBG2
+Ik73a7S_>e`;ZVJhg^7o7h2
+S1
+R3
+w1772102698
+8D:/newfolder/top_module_decoder.sv
+FD:/newfolder/top_module_decoder.sv
+!i122 4
+L0 1 35
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 D:/newfolder/top_module_decoder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/newfolder/top_module_decoder.sv|
+!i113 0
+R8
+R1

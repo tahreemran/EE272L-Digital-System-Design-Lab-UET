@@ -1,0 +1,43 @@
+D:/newfolder/ripple_carry.sv {1 {vlog -work work -vopt -sv -stats=none D:/newfolder/ripple_carry.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module ripple_carry
+
+Top level modules:
+	ripple_carry
+
+} {} {}} D:/newfolder/decoder_seg.sv {1 {vlog -work work -vopt -sv -stats=none D:/newfolder/decoder_seg.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module decoder_seg
+
+Top level modules:
+	decoder_seg
+
+} {} {}} D:/newfolder/top_module_tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/newfolder/top_module_tb.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module decoder_tb
+
+Top level modules:
+	decoder_tb
+
+} {} {}} D:/newfolder/top_module_decoder.sv {1 {vlog -work work -vopt -sv -stats=none D:/newfolder/top_module_decoder.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module top_adder_decoder
+
+Top level modules:
+	top_adder_decoder
+
+} {} {}} D:/newfolder/decoder_sel.sv {1 {vlog -work work -vopt -sv -stats=none D:/newfolder/decoder_sel.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module decoder_sel
+
+Top level modules:
+	decoder_sel
+
+} {} {}} D:/newfolder/full_adder.sv {1 {vlog -work work -vopt -sv -stats=none D:/newfolder/full_adder.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}}
