@@ -1,0 +1,251 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/User/Downloads/lab_8/Questa
+T_opt
+!s110 1778260320
+VkjIjb?523cQlATh0moK@=0
+04 15 4 work tb_lab_complete fast 0
+=1-dc9009d11af0-69fe195f-1d5-5ab8
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+va7top
+Z3 2C:/Users/User/Downloads/lab_8/Src/lab_complete.sv
+Z4 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z5 !s110 1778260313
+!i10b 1
+!s100 _9YBjf_U4[oU65I2J3oda3
+IX6^?AA2O`PcfLzER6i[S]1
+S1
+R1
+Z6 w1778260145
+Z7 8C:/Users/User/Downloads/lab_8/Src/lab_complete.sv
+Z8 FC:/Users/User/Downloads/lab_8/Src/lab_complete.sv
+!i122 1
+L0 236 30
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z11 !s108 1778260312.000000
+Z12 !s107 C:/Users/User/Downloads/lab_8/Src/lab_complete.sv|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/User/Downloads/lab_8/Src/lab_complete.sv|
+!i113 0
+Z14 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vdac
+R3
+R4
+R5
+!i10b 1
+!s100 Glz2KTVTPczCZdJg5mGQf2
+IHC0[:C6OG7YGgG=L9mVo;0
+S1
+R1
+R6
+R7
+R8
+!i122 1
+L0 82 23
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+vdebouncer
+R3
+R4
+R5
+!i10b 1
+!s100 02=`ePHi^?NDNTR4[2Z]R2
+IL@=oW9B3=WedTh5`Wc[k=2
+S1
+R1
+R6
+R7
+R8
+!i122 1
+L0 37 27
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+vedge_detector
+R3
+R4
+R5
+!i10b 1
+!s100 :Vc?LbJ>8YY<84a??hEzn3
+IADkzXNzhkd]f<h?nhCMZQ1
+S1
+R1
+R6
+R7
+R8
+!i122 1
+L0 67 12
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+vsample_pulse_gen
+R3
+R4
+R5
+!i10b 1
+!s100 M4Aa@T0i<OdiBZLIX3`Zd1
+I=b>WAJmA9H[U86[0fi2^o2
+S1
+R1
+R6
+R7
+R8
+!i122 1
+L0 17 18
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+vsq_wave_gen
+R3
+R4
+R5
+!i10b 1
+!s100 `0A_GZnQ8^Gh?cn:P7b5A3
+IelYia2fk?;C;@K?^0nV^P3
+S1
+R1
+R6
+R7
+R8
+!i122 1
+L0 108 29
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+vsynchronizer
+R3
+R4
+R5
+!i10b 1
+!s100 IChAPzMW=?N`70TnREUn_0
+I_l]R3C]Y>HZBmWnOPOUOh3
+S1
+R1
+R6
+R7
+R8
+!i122 1
+L0 2 12
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+vtb_lab_complete
+2C:/Users/User/Downloads/lab_8/Sim/tb_lab_complete (1).sv
+R4
+!s110 1778260312
+!i10b 1
+!s100 _0T`ih2_eRRVhEV45R9Jd3
+I>df3cd0jA>f<e2Ed81Rc]0
+S1
+R1
+w1778245779
+8C:/Users/User/Downloads/lab_8/Sim/tb_lab_complete (1).sv
+FC:/Users/User/Downloads/lab_8/Sim/tb_lab_complete (1).sv
+!i122 0
+L0 3 89
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/User/Downloads/lab_8/Sim/tb_lab_complete (1).sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/User/Downloads/lab_8/Sim/tb_lab_complete (1).sv|
+!i113 0
+R14
+R2
+vtop_btn_parser
+R3
+R4
+R5
+!i10b 1
+!s100 A[@L;Ao_QSQQkdX;?H10S1
+IYOD_>0oYGm8<UodK3;CiM0
+S1
+R1
+R6
+R7
+R8
+!i122 1
+L0 140 94
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2

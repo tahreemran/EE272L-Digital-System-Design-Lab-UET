@@ -1,0 +1,9 @@
+BEGIN 1:top_btn_parser:fast:work
+    switch_out :  1:tb_lab_complete:fast:work
+    sound_enable :  1:tb_lab_complete:fast:work
+    pwm :  1:tb_lab_complete:fast:work
+    sync_out :  1:tb_lab_complete:fast:work
+    edge_pulse :  1:tb_lab_complete:fast:work
+    code :  1:tb_lab_complete:fast:work
+    next_sample :  1:tb_lab_complete:fast:work
+END 
